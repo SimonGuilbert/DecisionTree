@@ -9,8 +9,7 @@ Les résultats et performances sont données sous forme de matrices de confusion
 
 ### Mode d'emploi du programme sur l'arbre de décision
 * 1ère méthode : avec un terminal
-  * Télécharger le dossier de ce dépôt
-  * Décompresser et enregistrer le dossier appelé ArbreDecision
+  * Télécharger ce dépôt
   * Ouvrir un terminal
   * Avec la commande cd, se déplacer à l'emplacement du dossier ArbreDecision
   * Entrer la commande cd Code
@@ -19,7 +18,7 @@ Les résultats et performances sont données sous forme de matrices de confusion
   * Si ça ne fonctionne pas, regarder ceci : https://fr.wikihow.com/compiler-et-ex%C3%A9cuter-un-programme-Java-en-ligne-de-commande
   
 * 2ème méthode : avec Eclipse
-  * Télécharger le dossier de ce dépôt
+  * Télécharger ce dépôt
   * Télecharger Eclipse gratuitement : https://www.eclipse.org/downloads/
   * Décompresser et enregistrer le dossier appelé ArbreDecision 
   * Ouvrir Eclipse
