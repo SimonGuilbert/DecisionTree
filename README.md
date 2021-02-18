@@ -11,7 +11,7 @@ Les résultats et performances sont données sous forme de matrices de confusion
 * 1ère méthode : avec un terminal
   * Télécharger ce dépôt
   * Ouvrir un terminal
-  * Avec la commande cd, se déplacer à l'emplacement du dossier ArbreDecision
+  * Avec la commande cd, se déplacer à l'emplacement du dossier DecisionTree
   * Entrer la commande cd Code
   * Écrire javac Main.java
   * Écrire java Main
@@ -20,11 +20,10 @@ Les résultats et performances sont données sous forme de matrices de confusion
 * 2ème méthode : avec Eclipse
   * Télécharger ce dépôt
   * Télecharger Eclipse gratuitement : https://www.eclipse.org/downloads/
-  * Décompresser et enregistrer le dossier appelé ArbreDecision 
   * Ouvrir Eclipse
   * File > new > Java Project
   * Décocher Use Default Location
-  * Dans la zone de texte Location: écrire le chemin amenant au dossier Code (sous-dossier de ArbreDecision)
+  * Dans la zone de texte Location: écrire le chemin amenant au dossier Code (sous-dossier de DecisionTree)
   * Finish
   * A gauche, dans l'onglet Package Explorer, clic droit sur Code
   * Run As > Java Application
